@@ -19,14 +19,25 @@ Part 1:
 
 Part 2:
 **Branch** - A branch is a version of your repository, containing all the files of your current project. 
+
 **Clone** - Allows you to download a copy of your repository, including all versions in the repository, to your local machine.
+
 **Commit** - A "snapshot" of your repository in its current exact state.
-**Fetch** - Gets the latest version of a repository
+
+**Fetch** - Gets the latest version of a repository.
+
 **GIT** - An open source software made for tracking version changes in a project, usually for allowing easier collaboration in software development.
+
 **Github** - An internet host of Git, allowing users to upload and share Git repositories across the web.
+
 **Merge** - Combines the individual changes of two branches.
+
 **Merge Conflict** - When Git can't differentiate between two commits, usually due to two different changes on the same line of code.
+
 **Push** - Allows you to upload a local repository to a remote location.
+
 **Pull** - Gets the latest version of a repository, as well as downloads a copy of that version.
+
 **Remote** - A host that stores repositories online.
+
 **Repository** - Stores multiple versions of files in a project.
