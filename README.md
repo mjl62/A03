@@ -18,6 +18,7 @@ Part 1:
 15. For duplicating a repository from GitHub, go to the top toolbar GIT -> Clone -> GitHub, and select the appropriate repository.
 
 Part 2:
+
 **Branch** - A branch is a version of your repository, containing all the files of your current project. 
 
 **Clone** - Allows you to download a copy of your repository, including all versions in the repository, to your local machine.
